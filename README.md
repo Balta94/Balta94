@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balta94
 - 👀 I’m interested in learning and development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Java, C# & ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Balta1994VBBN@gmail.com
 
